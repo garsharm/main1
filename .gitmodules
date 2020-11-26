@@ -1,0 +1,3 @@
+[submodule "common1"]
+	path = common1
+	url = https://github.com/garsharm/common1.git
